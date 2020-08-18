@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### I work with data!
 
 <!--
 **rjrockzz/rjrockzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/ad8cff05-4048-4157-985f-f9de032d15c3/page/5Y9bB" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+[![Data!](https://github.com/rjrockzz/rjrockzz/blob/master/Snipaste_2020-08-18_16-09-25.png)](https://datastudio.google.com/embed/reporting/ad8cff05-4048-4157-985f-f9de032d15c3/page/5Y9bB)
