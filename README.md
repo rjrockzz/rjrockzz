@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 #### I work with data!
-</div>
+
 <!--
 **rjrockzz/rjrockzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 -->
 
 [![Data!](https://github.com/rjrockzz/rjrockzz/blob/master/Snipaste_2020-08-18_16-09-25.png)](https://datastudio.google.com/embed/reporting/ad8cff05-4048-4157-985f-f9de032d15c3/page/5Y9bB)
+</div>
