@@ -1,5 +1,5 @@
 <p align="center">
-### 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚!
+~ вяσнємιαη янαρѕσ∂у ~
 <kbd> 
     <img src="https://spotlights-feed.github.com/spotlights/13-ghoulish-games/mummy.gif"> 
 </kbd> 
