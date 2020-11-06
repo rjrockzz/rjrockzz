@@ -1,7 +1,6 @@
-### 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚!
-
 <p align="center">
-  <kbd> 
+### 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚!
+<kbd> 
     <img src="https://spotlights-feed.github.com/spotlights/13-ghoulish-games/mummy.gif"> 
 </kbd> 
 </p><br>
