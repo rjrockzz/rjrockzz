@@ -1,6 +1,6 @@
 <p align="center">
 <kbd> 
-    <img height = 250 width = 400 src="https://spotlights-feed.github.com/spotlights/13-ghoulish-games/mummy.gif"> 
+    <img height = 250 width = 450 src="https://spotlights-feed.github.com/spotlights/13-ghoulish-games/mummy.gif"> 
 </kbd>
 </p><br>
 
