@@ -1,8 +1,8 @@
 <p align="center">
-~ вяσнємιαη янαρѕσ∂у ~
 <kbd> 
-    <img height = 200 width = 400 src="https://spotlights-feed.github.com/spotlights/13-ghoulish-games/mummy.gif"> 
+    <img height = 230 width = 400 src="https://spotlights-feed.github.com/spotlights/13-ghoulish-games/mummy.gif"> 
 </kbd> 
+    ~ вяσнємιαη янαρѕσ∂у ~
 </p><br>
 
 <!--
