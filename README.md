@@ -1,2 +1,2 @@
 ### Hi!
-  * [My Portfolio and Blogs.](www.pronicles.tech)
+  * [My Portfolio and Blogs.](https://www.pronicles.tech)
