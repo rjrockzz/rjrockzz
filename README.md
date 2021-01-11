@@ -1,2 +1,2 @@
 ### Hi!
-  * <href> pronicles.tech </href>
+  * [Portfolio and Blogs.](pronicles.tech)
