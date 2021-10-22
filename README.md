@@ -1,5 +1,6 @@
 
 <p align="center">
-  ![git](https://github-readme-stats.vercel.app/api?username=rjrockzz&show_icons=true&theme=radical)
+hey!
+![git](https://github-readme-stats.vercel.app/api?username=rjrockzz&show_icons=true&theme=radical)
 </p>
 
